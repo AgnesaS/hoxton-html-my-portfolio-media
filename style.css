@@ -82,6 +82,8 @@ main{
     font-size: 20px;
     padding: 30px;
     width: 60ch;
+    background-image: url(https://i.dlpng.com/static/png/6280388-15-red-paint-splatters-png-transparent-onlygfxcom-red-paint-png-2970_3061_preview.png);
+
     
 }
 .profile-info button {
@@ -145,6 +147,7 @@ main{
     display: grid;
     grid-template-rows: repeat(3,auto);
     grid-gap: 10px;
+    
 }
 .project-button{
     background-color: crimson;
